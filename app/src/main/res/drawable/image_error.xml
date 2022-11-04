@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/preview_background" />
+    <item>
+        <inset
+            android:drawable="@drawable/ic_baseline_image_not_supported_24"
+            android:insetLeft="90dp"
+            android:insetTop="90dp"
+            android:insetRight="90dp"
+            android:insetBottom="90dp" />
+    </item>
+</layer-list>

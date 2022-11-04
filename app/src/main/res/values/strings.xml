@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="false">Story App</string>
+    <string name="error">Something is error!</string>
+    <string name="login">Login</string>
+    <string name="login_error">Please fill your login data</string>
+    <string name="login_success">Login succeed!</string>
+    <string name="register">Register</string>
+    <string name="register_error">Please fill your data</string>
+    <string name="register_success">Register succeed!</string>
+    <string name="logout">Logout</string>
+    <string name="logout_success">You are logged out!</string>
+    <string name="welcome">Welcome to Story App!</string>
+    <string name="welcome_desc">See what\'s happening in the world right now.</string>
+    <string name="email_ed">Input your email address</string>
+    <string name="name_ed">Input your name</string>
+    <string name="password_ed">Input your password</string>
+    <string name="name_error">Minimal contains 3 characters</string>
+    <string name="email_error">Email is invalid</string>
+    <string name="password_error">Minimal contains 6 characters</string>
+    <string name="add_story">Add New Story</string>
+    <string name="story_photo">Story Photo</string>
+    <string name="load_data_error">Failed to load data!</string>
+    <string name="load_data_succeed">Succeed to load data</string>
+    <string name="no_camera_permission">You don\'t have a permission to access the camera.</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="description_ed">Add your image description…</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="empty_data_story">Image and description can\'t be empty</string>
+    <string name="empty_image">Upload your image</string>
+    <string name="empty_description">Insert your image description</string>
+    <string name="appwidget_text">Story App Widget</string>
+    <string name="app_widget_description">Show list of stories from Story App</string>
+</resources>
